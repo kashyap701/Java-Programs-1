@@ -1,4 +1,5 @@
 #Write a Java Program to Calculate Arithmetic Mean of N numbers
+#Arithmetic Mean Program in java
 import java.util.Scanner;
  
 public class Arithmetic_Mean
